@@ -6,7 +6,7 @@
 2 info using npm@3.10.10
 3 info using node@v6.11.0
 4 verbose publish [ '.' ]
-5 verbose stack Error: Invalid name: "JavierMartinez/platzom"
+5 verbose stack Error: Invalid name: "javiermartinezo/platzom"
 5 verbose stack     at ensureValidName (C:\Program Files\nodejs\node_modules\npm\node_modules\normalize-package-data\lib\fixer.js:336:15)
 5 verbose stack     at Object.fixNameField (C:\Program Files\nodejs\node_modules\npm\node_modules\normalize-package-data\lib\fixer.js:215:5)
 5 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\normalize-package-data\lib\normalize.js:32:38
@@ -22,7 +22,7 @@
 8 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish" "--access=public"
 9 error node v6.11.0
 10 error npm  v3.10.10
-11 error Invalid name: "JavierMartinez/platzom"
+11 error Invalid name: "javiermartinezo/platzom"
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
